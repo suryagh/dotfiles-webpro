@@ -17,7 +17,6 @@ cask "postman"
 cask "raycast"
 cask "slack"
 cask "sourcetree"
-cask "spotify"
 cask "visual-studio-code"
 cask "vlc"
 
@@ -30,3 +29,10 @@ cask "qlimagesize"
 cask "suspicious-package"
 cask "quicklookase"
 cask "qlvideo"
+
+# my custom packages
+cask "android-platform-tools"
+cask "kdiff3"
+cask "evernote"
+cask "keyboard-maestro"
+cask "iterm2"
